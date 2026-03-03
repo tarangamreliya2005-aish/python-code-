@@ -1,1 +1,1 @@
-print ("Hello Tarang from astha can you heare me")
+print ("Hello Tarang from astha ")
