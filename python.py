@@ -1,1 +1,1 @@
-print ("Hello Tarang from astha happy holi!! ")
+print ("Hello Tarang ")
